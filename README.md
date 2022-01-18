@@ -799,8 +799,8 @@ If the status of the node has changed via a certain command, the entire command 
 ### v4.1.0 (latest)
 
 * New queue worker throttles the number of parallel requests to the bridge to avoid 503 API limit errors (can be configured in the Bridge configuration)
-* Resources are now alphabetically sorted in the node´s configuration inetrface ([#282](https://github.com/Foddy/node-red-contrib-huemagic/pull/282)) (thx)
-* "Hue Bridghtness" node was optimized to output more accurate "dark" and "dayLight" values
+* Resources are now alphabetically sorted in the node´s configuration interface ([#282](https://github.com/Foddy/node-red-contrib-huemagic/pull/282)) (thx)
+* "Hue Brightness" node was optimized to output more accurate "dark" and "dayLight" values
 * Several optimizations in the documentation of some nodes
 
 ### v4.0.5
